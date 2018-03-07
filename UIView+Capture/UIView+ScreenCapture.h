@@ -9,7 +9,6 @@
 //  View截图
 
 #import <UIKit/UIKit.h>
-#import <WebKit/WebKit.h>
 
 @interface UIView(ScreenCapture)
 
